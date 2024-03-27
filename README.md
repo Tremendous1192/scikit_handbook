@@ -1,3 +1,26 @@
+# Fork of scikit-learnデータ分析　実装ハンドブック
+書籍「scikit-learnデータ分析ハンドブック」の学習リポジトリ.\
+学習時時点(2024年3月27日)のライブラリバージョンで書き直す.
+
+## ライブラリのバージョン
+| ライブラリ | 書籍 | 本リポジトリ |
+| ---- | ---- | ---- |
+| matplotlib | 3.1.2 | 3.8.3 |
+| numpy | 1.17.4 | 1.26.4 |
+| pandas | 0.25.3 | 2.2.1 |
+| scikit-learn | 0.21.3 | 1.4.1.post1 |
+| mlxtend | 0.14.0 | 0.23.1 |
+
+## Pythonのバージョン
+学習時のバージョン
+* Python 3.12.2 Feb. 6, 2024
+
+発行時のバージョン
+* Python 3.8.0 Oct. 14, 2019
+* Python 3.7.5 Oct. 15, 2019
+* Python 3.6.9 July 2, 2019
+* Python 3.5.9 Nov. 2, 2019
+
 # scikit-learnデータ分析　実装ハンドブック
 
 <a href="https://www.amazon.co.jp/scikit-learn-%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90-%E5%AE%9F%E8%B7%B5%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-Python%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E5%AE%9A%E7%95%AA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E6%AF%9B%E5%88%A9/dp/4798055425">![scikit](https://user-images.githubusercontent.com/40778791/108866924-0475b080-7638-11eb-8ea4-4a14f9e24eb5.PNG)</a>
